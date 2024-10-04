@@ -1,2 +1,2 @@
 # delta-demo
-demo repository for github class
+demo repository for github class.
